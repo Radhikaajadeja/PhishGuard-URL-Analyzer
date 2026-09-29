@@ -1,0 +1,2 @@
+# PhishGuard currently uses Python standard library modules only.
+# No external dependencies are required.
